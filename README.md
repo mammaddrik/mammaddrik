@@ -24,7 +24,6 @@
 <br></br>
 <br></br>
 <br></br>
-<br></br>
 
 <h1 align="center">Socials</h1>
 <p align="center">
