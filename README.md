@@ -6,7 +6,7 @@
 <h1 align="center">Skills</h1>
 <a href="https://github.com/mammaddrik"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"></a>
 
-<a href="https://roadmap.sh"><img align="right" src="https://api.roadmap.sh/v1-badge/tall/64ae6b53424d6b2509974c2f?" height="245"></a>
+<a href="https://roadmap.sh"><img align="right" src="https://api.roadmap.sh/v1-badge/tall/64ae6b53424d6b2509974c2f?variant=dark" height="245" alt="roadmap.sh"></a>
 </p>
 
 
