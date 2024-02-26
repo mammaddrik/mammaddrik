@@ -28,6 +28,6 @@
 
 <h1 align="center">Stats</h1>
 <p align="center">
-<img height='165px' src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=011627&color=7fdbca&line=c792ea&point=ffffff&title_color=7fdbca&icon_color=c792ea&text_color=ffffff&hide_border=true"> <img height='165px' src="https://streak-stats.demolab.com/?user=mammaddrik&stroke=ffffff&&background=011627&ring=7fdbca&fire=c792ea&currStreakNum=ffffff&currStreakLabel=c792ea&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"></h1><p>
+<img height='165px' src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=011627&color=7fdbca&line=c792ea&point=ffffff&title_color=7fdbca&icon_color=c792ea&text_color=ffffff&hide_border=true&rank_icon=github"> <img height='165px' src="https://streak-stats.demolab.com/?user=mammaddrik&stroke=ffffff&&background=011627&ring=7fdbca&fire=c792ea&currStreakNum=ffffff&currStreakLabel=c792ea&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"></h1><p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=011627&color=7fdbca&line=c792ea&point=ffffff&custom_title=GitHub%20Commits%20Graph&hide_border=true)](https://github.com/mammaddrik)
