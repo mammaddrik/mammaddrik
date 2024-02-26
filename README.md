@@ -4,7 +4,7 @@
 <p align="center">Gabe Newell: In the future, programmers will play the role of wizards because they have magical powers that other people in society lack.</p>
 
 <h1 align="center">Skills</h1>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64ae6b53424d6b2509974c2f?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img align="right" src="https://api.roadmap.sh/v1-badge/wide/64ae6b53424d6b2509974c2f?variant=dark" alt="roadmap.sh"&title_color=7fdbca/></a>
 <a href="https://github.com/mammaddrik"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"></a>
 
 <p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
