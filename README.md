@@ -4,7 +4,7 @@
 <p align="center">Gabe Newell: In the future, programmers will play the role of wizards because they have magical powers that other people in society lack.</p>
 
 <h1 align="center">Skills</h1>
-<a href="https://roadmap.sh"><img align="left" src="https://api.roadmap.sh/v1-badge/wide/64ae6b53424d6b2509974c2f?variant=dark" alt="roadmap.sh"&title_color=7fdbca/></a>
+<a href="https://github.com/mammaddrik"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"></a>
 <p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -15,13 +15,10 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD"/></a>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<a href="https://github.com/mammaddrik"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" width="500" height="190" alt="Top Languages"></a>
 </p>
 
+<h1 align="center">Skills</h1>
+<a href="https://roadmap.sh"><img align="left" src="https://api.roadmap.sh/v1-badge/wide/64ae6b53424d6b2509974c2f?variant=dark" alt="roadmap.sh"&title_color=7fdbca/></a>
 
 <br></br>
 <br></br>
