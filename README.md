@@ -18,11 +18,6 @@
 </p>
 <br></br>
 <br></br>
-<h1 align="center">Roadmap</h1>
-<a href="https://roadmap.sh"><img align="left" src="https://api.roadmap.sh/v1-badge/wide/64ae6b53424d6b2509974c2f?variant=dark" alt="roadmap.sh"&title_color=7fdbca/></a>
-
-<br></br>
-<br></br>
 <br></br>
 <br></br>
 
