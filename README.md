@@ -16,7 +16,8 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD"/></a>
 </p>
-
+<br></br>
+<br></br>
 <h1 align="center">Roadmap</h1>
 <a href="https://roadmap.sh"><img align="left" src="https://api.roadmap.sh/v1-badge/wide/64ae6b53424d6b2509974c2f?variant=dark" alt="roadmap.sh"&title_color=7fdbca/></a>
 
