@@ -19,10 +19,7 @@
 <br></br>
 <br></br>
 <br></br>
-<br></br>
-<a href="https://github.com/mammaddrik"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"></a>
-
-
+<a href="https://github.com/mammaddrik"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" width="500" height="190" alt="Top Languages"></a>
 </p>
 
 
