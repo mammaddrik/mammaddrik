@@ -27,7 +27,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammad-derikvand-995057239/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/mammad.drik" target="_blank" rel="noreferrer" align="left"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/mammaddrik" target="_blank" rel="noreferrer"><img src="src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg"" width="32" height="32" /></a>
+<a href="https://www.twitter.com/mammaddrik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 <h1 align="center">Stats</h1>
