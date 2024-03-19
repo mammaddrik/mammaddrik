@@ -33,6 +33,8 @@
   <a href="https://www.twitter.com/mammaddrik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </picture>
 
+![Fancy logo](https://pouch.jumpshare.com/preview/Unknr3xaHb-ErGrO5lbkmPK14iVsFgz1fPU5TINyLuyo36d_QWeLBgzaeu_M_CG2Eqx6re_ULWJR05hDIcpIGstlYTQYvp4Ly5pS1iwAyL8#gh-dark-mode-only)
+![Fancy logo](./light.png#gh-light-mode-only)
 </p>
 
 
