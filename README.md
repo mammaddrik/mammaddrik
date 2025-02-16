@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.postimg.cc/43VYTcgn/banner.png)
+![I am GitHub Readme Generator's creator](https://i.postimg.cc/7LqsCRSj/Untitled-1-Recovered.png)
 
 <p align="center">only a programmer can understand the joy of finishing a project.</p>
 <p align="center">Gabe Newell: In the future, programmers will play the role of wizards because they have magical powers that other people in society lack.</p>
