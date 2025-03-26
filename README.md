@@ -1,6 +1,6 @@
 ![Untitled-1.png](https://i.postimg.cc/0y7qkNR8/Untitled-1.png)
 
-<p align="center">only a programmer can understand the joy of finishing a project.</p>
+<img src="https://i.postimg.cc/3rbyptyk/Untitled-2.png" align="center"/>
 <p align="center">Gabe Newell: In the future, programmers will play the role of wizards because they have magical powers that other people in society lack.</p>
 
 <h1 align="center">Skills</h1>
