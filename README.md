@@ -4,7 +4,12 @@
 ![text](Media/Text/Text_Light.png#gh-dark-mode-only)
 ![text](Media/Text/Text_Dark.png#gh-light-mode-only)
 
-<h1 align="center"><img src="Media/Text/Skill_Dark.png"></h1>
+<h1 align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)"srcset="Media/Text/Skill_Light.png"/>
+        <img src="Media/Text/Skill_Dark.png">
+</picture></h1>
+
 <a href="https://github.com/mammaddrik"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"></a>
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
