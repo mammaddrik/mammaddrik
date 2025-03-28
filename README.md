@@ -3,8 +3,10 @@
     <img src="Media/Banner/Banner_Dark.png" alt="Banner">
 </picture>
 
-![Text](Media/Text/Text_Light.png#gh-dark-mode-only)
-![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Media/Text/Text_Light.png" alt="Text"/>
+    <img src="Media/Text/Text_Dark.png" alt="Text">
+</picture>
 
 <h3 align="center">
     <picture>
