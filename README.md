@@ -16,7 +16,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages">
 </picture> -->
 
-<p align="left">
+<!-- <p align="left">
 <img src="Media/Icon/python_Dark.png" width="36" height="36" alt="Python"/></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="36" height="36" alt="GNU Bash" /></a>
@@ -48,4 +48,4 @@
 <p align="center">
 <img height='165px' src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=011627&color=7fdbca&line=c792ea&point=ffffff&title_color=7fdbca&icon_color=c792ea&text_color=ffffff&hide_border=true&rank_icon=github"> <img height='165px' src="https://streak-stats.demolab.com/?user=mammaddrik&stroke=ffffff&&background=011627&ring=7fdbca&fire=c792ea&currStreakNum=ffffff&currStreakLabel=c792ea&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"></h1><p>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=011627&color=7fdbca&line=c792ea&point=ffffff&custom_title=GitHub%20Commits%20Graph&hide_border=true)](https://github.com/mammaddrik)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=011627&color=7fdbca&line=c792ea&point=ffffff&custom_title=GitHub%20Commits%20Graph&hide_border=true)](https://github.com/mammaddrik) -->
