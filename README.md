@@ -6,13 +6,18 @@
 
 <h1 align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)"srcset="Media/Text/Skill_Light.png"/>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Text/Skill_Light.png"/>
         <img src="Media/Text/Skill_Dark.png">
-</picture></h1>
+    </picture>
+</h1>
 
-<a href="https://github.com/mammaddrik"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"></a>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Media/Text/Skill_Light.png"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages">
+</picture>
+
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="36" height="36" alt="GNU Bash" /></a>
 <a href="https://www.debian.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="36" height="36" alt="debian"/></a>
