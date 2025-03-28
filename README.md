@@ -1,5 +1,5 @@
-[![Banner](Media/Banner/Banner_Light.png#gh-dark-mode-only)](#)
-[![Banner](Media/Banner/Banner_Dark.png#gh-light-mode-only)](#)
+[![Banner](Media/Banner/Banner_Light.png#gh-dark-mode-only)]()
+[![Banner](Media/Banner/Banner_Dark.png#gh-light-mode-only)]()
 
 ![Text](Media/Text/Text_Light.png#gh-dark-mode-only)
 ![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
