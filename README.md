@@ -1,5 +1,7 @@
-[![Banner](Media/Banner/Banner_Light.png#gh-dark-mode-only)]()
-[![Banner](Media/Banner/Banner_Dark.png#gh-light-mode-only)]()
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Media/Banner/Banner_Light.png" alt="Banner"/>
+    <img src="Media/Banner/Banner_Dark.png" alt="Banner">
+</picture>
 
 ![Text](Media/Text/Text_Light.png#gh-dark-mode-only)
 ![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
