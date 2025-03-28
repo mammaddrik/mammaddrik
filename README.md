@@ -1,11 +1,8 @@
 ![banner](Media/Banner/Banner_Light.png#gh-dark-mode-only)
 ![banner](Media/Banner/Banner_Dark.png#gh-light-mode-only)
 
-![banner](Media/Text/Text_Light.png#gh-dark-mode-only)
-![banner](Media/Text/Text_Dark.png#gh-light-mode-only)
-
-<img src="https://i.postimg.cc/3rbyptyk/Untitled-2.png" align="center"/>
-<p align="center">Gabe Newell: In the future, programmers will play the role of wizards because they have magical powers that other people in society lack.</p>
+![text](Media/Text/Text_Light.png#gh-dark-mode-only)
+![text](Media/Text/Text_Dark.png#gh-light-mode-only)
 
 <h1 align="center">Skills</h1>
 <a href="https://github.com/mammaddrik"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"></a>
