@@ -4,12 +4,12 @@
 ![Text](Media/Text/Text_Light.png#gh-dark-mode-only)
 ![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
 
-<h1 align="center">
+<h3 align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Text/Skill_Light.png" alt="Skill"/>
         <img src="Media/Text/Skill_Dark.png" alt="Skill">
     </picture>
-</h1>
+</h3>
 
 <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=000&text_color=000&bg_color=fff&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"/>
