@@ -1,18 +1,18 @@
-![banner](Media/Banner/Banner_Light.png#gh-dark-mode-only)
-![banner](Media/Banner/Banner_Dark.png#gh-light-mode-only)
+![Banner](Media/Banner/Banner_Light.png#gh-dark-mode-only)
+![Banner](Media/Banner/Banner_Dark.png#gh-light-mode-only)
 
-![text](Media/Text/Text_Light.png#gh-dark-mode-only)
-![text](Media/Text/Text_Dark.png#gh-light-mode-only)
+![Text](Media/Text/Text_Light.png#gh-dark-mode-only)
+![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
 
 <h1 align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Text/Skill_Light.png"/>
-        <img src="Media/Text/Skill_Dark.png">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Text/Skill_Light.png" alt="Skill"/>
+        <img src="Media/Text/Skill_Dark.png" alt="Skill">
     </picture>
 </h1>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Media/Text/Skill_Light.png"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"/>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages">
 </picture>
 
