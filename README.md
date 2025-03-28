@@ -1,4 +1,5 @@
-![Untitled-1.png](https://i.postimg.cc/0y7qkNR8/Untitled-1.png)
+![banner](https://i.postimg.cc/0y7qkNR8/Untitled-1.png#gh-dark-mode-only)
+![banner](https://i.postimg.cc/WbqM4Q2Z/Untitled-3.png#gh-light-mode-only)
 
 <img src="https://i.postimg.cc/3rbyptyk/Untitled-2.png" align="center"/>
 <p align="center">Gabe Newell: In the future, programmers will play the role of wizards because they have magical powers that other people in society lack.</p>
