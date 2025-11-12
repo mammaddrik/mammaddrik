@@ -3,7 +3,7 @@
 
 <details align="center">
     <summary>
-        <a href="#"><img src="Media/Banner/giphy.gif" width="240" height="240"/></a>
+        <a href=""><img src="Media/Banner/giphy.gif" width="240" height="240"/></a>
     </summary>
     <h1></h1>
         <picture>
