@@ -16,10 +16,8 @@
     <a href="#">
         <img src="Media/Text/12.png"align="left">
     </a>
-    <a href="#">
-        <img src="Media/Icon/7.png" width="240" height="240" align="right">
-    </a>
-    <br><br><br><br><br><br><br><br><br><br>
+    <h1></h1>
+    <br>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
         <img src="Media/Text/3.png" alt="Skill">
@@ -36,6 +34,10 @@
 | Content Cell  | Content Cell  |
 
 </details>
+
+<!-- <a href="#">
+    <img src="Media/Icon/7.png" width="240" height="240" align="right">
+</a> -->
 
 <!-- <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=881F1F&text_color=fff&bg_color=0D1117&locale=en&hide_border=true&custom_title=Top%20%Languages&hide_progress=true" alt="Top Languages"/>
