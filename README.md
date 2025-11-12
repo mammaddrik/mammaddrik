@@ -7,8 +7,8 @@
     </a>
 </h3>
 
-<details align="center">
-    <summary align="center">g
+<details>
+    <summary>ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
     </summary>
     <h1></h1>
         <picture>
