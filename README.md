@@ -14,10 +14,7 @@
     </picture>
     <br>
     <a href="#">
-        <img src="Media/Icon/12.png" width="240" align="left">
-    </a>
-    <a href="#">
-        <img src="Media/Text/test.png" align="center">
+        <img src="Media/Text/12.png"align="left">
     </a>
     <a href="#">
         <img src="Media/Icon/7.png" width="240" height="240" align="right">
