@@ -12,10 +12,9 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
         <img src="Media/Text/3.png" alt="Skill">
     </picture>
-    <br>
     <picture>
         <br>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=000&text_color=000&bg_color=fff&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=881F1F&text_color=881F1F&bg_color=0D1117&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"/>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=7fdbca&text_color=ffffff&icon_color=facc15&bg_color=011627&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages">
     </picture>
 </details>
