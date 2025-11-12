@@ -12,11 +12,11 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
         <img src="Media/Text/3.png" alt="Skill">
     </picture>
+    <a href="#">
+        <img src="Media/Icon/5.png" align="left">
+    </a>
 </details>
 
-<a href="#">
-    <img src="Media/Icon/5.png"/>
-</a>
 
 <!-- <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=881F1F&text_color=fff&bg_color=0D1117&locale=en&hide_border=true&custom_title=Top%20%Languages&hide_progress=true" alt="Top Languages"/>
