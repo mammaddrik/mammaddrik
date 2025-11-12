@@ -1,6 +1,8 @@
 I guess even if you force back what was lost... it still won't be the way it was.
 
 ![Banner](Media/Banner/giphy.gif#gh-dark-mode-only)
+![Banner](Media/Banner/giphy.gif#gh-light-mode-only)
+
 
 ![Banner](Media/Banner/Banner_Light.png#gh-dark-mode-only)
 ![Banner](Media/Banner/Banner_Dark.png#gh-light-mode-only)
