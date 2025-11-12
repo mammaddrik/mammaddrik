@@ -2,14 +2,16 @@
 ![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
 
 <details align="center">
-    <summary>__________________________________________________________________________________________________________________________________________
-    <a href="#"><img src="Media/Banner/giphy.gif" width="240" height="240"/></a>
+    <summary>
+        <a href="#">
+            <img src="Media/Banner/giphy.gif" width="240" height="240"/>
+        </a>
     </summary>
     <h1></h1>
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
-            <img src="Media/Text/3.png" alt="Skill">
-        </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
+        <img src="Media/Text/3.png" alt="Skill">
+    </picture>
 </details>
 
 <!-- <picture>
