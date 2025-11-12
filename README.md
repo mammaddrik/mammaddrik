@@ -2,6 +2,7 @@
 ![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
 
 <details align="center">
+    <h1></h1>
     <summary><img src="Media/Banner/giphy.gif" width="240" height="240"/></summary>
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
