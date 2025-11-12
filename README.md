@@ -1,11 +1,13 @@
 ![Text](Media/Text/Text_Light.png#gh-dark-mode-only)
 ![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
 
-<a href="#"><img src="Media/Banner/giphy.gif" width="240" height="240"/></a>
-
 <details align="center">
-    <summary></summary>
-        <h1></h1>
+    <summary>
+        <a herf="#">
+            <img src="Media/Banner/giphy.gif" width="240" height="240"/>
+        </a>
+    </summary>
+    <h1></h1>
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
             <img src="Media/Text/3.png" alt="Skill">
