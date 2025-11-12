@@ -5,10 +5,12 @@
     <img src="Media/Banner/giphy.gif" width="240" height="240"/>
 </h3>
 
+<details><summary>What is the README?</summary><br clear="both"></details><br clear="both">
+
 <h3 align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Text/Skill_Light.png" alt="Skill"/>
-        <img src="Media/Text/Skill_Dark.png" alt="Skill">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
+        <img src="Media/Text/3.png" alt="Skill">
     </picture>
 </h3>
 
