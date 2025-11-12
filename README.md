@@ -1,15 +1,17 @@
 ![Text](Media/Text/Text_Light.png#gh-dark-mode-only)
 ![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
 
+<a href="javascript:alert('Hello World!');"><img src="Media/Banner/giphy.gif" width="240" height="240"/></a>
+
 <details align="center">
-    <h1></h1>
-    <summary><img src="Media/Banner/giphy.gif" width="240" height="240"/></summary>
+    <summary></summary>
+        <h1></h1>
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
             <img src="Media/Text/3.png" alt="Skill">
         </picture>
-    <br clear="both">
 </details>
+
 
 
 
