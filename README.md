@@ -6,7 +6,7 @@
 </h3>
 
 <details>
-    <summary>What is the README?</summary>
+    <summary><img src="Media/Banner/giphy.gif" width="240" height="240"/></summary>
     <h3 align="center">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
