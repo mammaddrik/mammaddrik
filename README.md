@@ -12,12 +12,16 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
         <img src="Media/Text/3.png" alt="Skill">
     </picture>
-    <br>
-    <picture>
+</details>
+
+<a href="#">
+    <img src="Media/Icon/5.png"/>
+</a>
+
+<!-- <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=881F1F&text_color=fff&bg_color=0D1117&locale=en&hide_border=true&custom_title=Top%20%Languages&hide_progress=true" alt="Top Languages"/>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=881F1F&text_color=000&bg_color=fff&locale=en&hide_border=true&custom_title=Top%20%Languages&hide_progress=true" alt="Top Languages">
-    </picture>
-</details>
+</picture> -->
 
 <!-- <p align="left">
 <img src="Media/Icon/python_Dark.png" width="36" height="36" alt="Python"/></a>
