@@ -1,14 +1,10 @@
 ![Text](Media/Text/Text_Light.png#gh-dark-mode-only)
 ![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
 
-<a href="#">
-    <img src="Media/Banner/giphy.gif" width="240" height="240" style="display:block;"/>
-</a>
-
 <details align="center">
     <summary>
         <a href="#">
-            <img src="Media/Banner/Banner_Dark.png" style="display:block;"/>
+            <img src="Media/Banner/giphy.gif" width="240" height="240" style="display: block"/>
         </a>
     </summary>
     <h1></h1>
@@ -17,8 +13,6 @@
         <img src="Media/Text/3.png" alt="Skill">
     </picture>
 </details>
-
-[![Click to see text](your-image.jpg)](https://yourusername.github.io/your-page.html)
 
 <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=000&text_color=000&bg_color=fff&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"/>
