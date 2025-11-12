@@ -1,7 +1,7 @@
 ![Text](Media/Text/Text_Light.png#gh-dark-mode-only)
 ![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
 
-<a href="javascript:alert('Hello World!');"><img src="Media/Banner/giphy.gif" width="240" height="240"/></a>
+<a href="#"><img src="Media/Banner/giphy.gif" width="240" height="240"/></a>
 
 <details align="center">
     <summary></summary>
