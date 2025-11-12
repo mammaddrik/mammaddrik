@@ -4,7 +4,7 @@
 <details align="center">
     <summary>
         <a href="#">
-            <img src="Media/Banner/giphy.gif" width="240" height="240"/>
+            <img src="Media/Banner/giphy.gif" width="240" height="240" style="display:block;"/>
         </a>
     </summary>
     <h1></h1>
