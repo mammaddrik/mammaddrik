@@ -17,6 +17,9 @@
         <img src="Media/Icon/6.png" align="left">
     </a>
     <p>dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p>
+    <a href="#">
+        <img src="Media/Icon/7.png" align="قight">
+    </a>
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
