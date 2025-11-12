@@ -1,14 +1,9 @@
-I guess even if you force back what was lost... it still won't be the way it was.
+![Text](Media/Text/Text_Dark.png#gh-dark-mode-only)
+![Text](Media/Text/Text_Light.png#gh-light-mode-only)
 
-![Text](Media/Text/2.png#gh-dark-mode-only)
-![Text](Media/Text/1.png#gh-light-mode-only)
-
-
-![Banner](Media/Banner/giphy.gif#gh-dark-mode-only)
-![Banner](Media/Banner/giphy.gif#gh-light-mode-only)
-
-![Text](Media/Text/Text_Light.png#gh-dark-mode-only)
-![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
+<h3 align="center">
+    <img src="Media/Banner/giphy.gif" width="240" height="240"/>
+</h3>
 
 <h3 align="center">
     <picture>
