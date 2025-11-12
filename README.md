@@ -5,14 +5,18 @@
     <img src="Media/Banner/giphy.gif" width="240" height="240"/>
 </h3>
 
-<details><summary>What is the README?</summary><br clear="both"></details><br clear="both">
+<details>
+    <summary>What is the README?</summary>
+    <h3 align="center">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
+            <img src="Media/Text/3.png" alt="Skill">
+        </picture>
+    </h3>
+    <br clear="both">
+</details>
 
-<h3 align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
-        <img src="Media/Text/3.png" alt="Skill">
-    </picture>
-</h3>
+
 
 <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=000&text_color=000&bg_color=fff&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"/>
