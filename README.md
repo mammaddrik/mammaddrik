@@ -1,11 +1,7 @@
 ![Text](Media/Text/Text_Light.png#gh-dark-mode-only)
 ![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
 
-<h3 align="center">
-    <a href="#">
-        <img src="Media/Banner/giphy.gif" width="240" height="240"/>
-    </a>
-</h3>
+<h3 align="center"><a href="#"><img src="Media/Banner/giphy.gif" width="240" height="240"/></a></h3>
 
 <details>
     <summary>
