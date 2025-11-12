@@ -12,10 +12,11 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/Text/10.png" alt="Skill"/>
         <img src="Media/Text/9.png" alt="Skill">
     </picture>
+    <br>
     <a href="#">
         <img src="Media/Icon/6.png" align="left">
     </a>
-    <br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
         <img src="Media/Text/3.png" alt="Skill">
