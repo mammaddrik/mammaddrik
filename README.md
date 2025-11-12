@@ -3,7 +3,7 @@
 
 <details align="center">
     <summary>
-        <a href="#"><img src="Media/Banner/giphy.gif" width="240" height="240"/></a>
+        <a href="#"><img src="Media/Banner/giphy.gif" width="240" height="240" style="display:block;"/></a>
     </summary>
     <h1></h1>
         <picture>
@@ -11,26 +11,6 @@
             <img src="Media/Text/3.png" alt="Skill">
         </picture>
 </details>
-
-<details>
-<summary>
-sadf
-</summary>
-<p>hi</p>
-</details>
-
-<img src="Media/Banner/Banner_Dark.png" style="width:300px; cursor:pointer" onclick="toggleText()">
-
-<p id="hiddenText" style="display:none;">
-hi my name is mohammad
-</p>
-
-<script>
-    function toggleText(){
-        const text = document.getElementById("hiddenText");
-        text.style.display = text.style.display == "none" ? "block" : "none";
-    }
-</script>
 
 <!-- <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mammaddrik&langs_count=10&title_color=000&text_color=000&bg_color=fff&locale=en&hide_border=true&custom_title=Top%20%Languages" alt="Top Languages"/>
