@@ -16,9 +16,9 @@
     <a href="#">
         <img src="Media/Text/12.png"align="left">
     </a>
-    <h1></h1>
     <br>
     <picture>
+    <h1></h1>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
         <img src="Media/Text/3.png" alt="Skill">
     </picture>
@@ -26,6 +26,7 @@
     <a href="#">
         <img src="Media/Icon/11.png" align="left">
     </a>
+    <h1></h1>
 <br><br><br>
 
 | First Header  | Second Header |
