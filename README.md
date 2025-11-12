@@ -16,7 +16,9 @@
     <a href="#">
         <img src="Media/Icon/12.png" width="240" align="left">
     </a>
-    <p>I am a passionate self-taught programmer with hands-on experience in Python, HTML, CSS, Linux, Bash, and a wide range of software and tools including Microsoft Word, Excel, PowerPoint, Adobe Photoshop, Figma, Adobe XD, Visio, Camtasia, MySQL, SQLite, Pandas, NumPy, VirtualBox, VMware, Markdown, Jupyter Notebook, PowerShell, Visual Studio Code, WordPress, pip, and Docker. I have strong problem-solving skills and excel in teamwork, demonstrating persistence, responsibility, fast learning, and delivering clean, thorough, and complete work. My experience spans network tools such as Ping, SSH, and TCP/IP, with basic exposure to React and Wireshark, highlighting my ability to adapt and work across various technologies and environments.</p>
+    <a href="#">
+        <img src="Media/Text/test.png" align="center">
+    </a>
     <a href="#">
         <img src="Media/Icon/7.png" width="240" height="240" align="right">
     </a>
