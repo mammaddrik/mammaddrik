@@ -8,7 +8,7 @@
 </h3>
 
 <details>
-    <summary>ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+    <summary>▶︎ •၊၊||၊|။|||| |
     </summary>
     <h1></h1>
         <picture>
