@@ -35,7 +35,7 @@
 
 | <img src="Media/Skills.png" alt="Skills"> | <img src="Media/Tools.png" alt="Tools"> |
 | :---------------------------------------: | :-------------------------------------: |
-| ![Text](Media/Python_Light.png#gh-dark-mode-only) ![Text](Media/Text_Dark.png#gh-light-mode-only) | Content Cell  |
+| ![Text](Media/Python_Light.png#gh-dark-mode-only) ![Text](Media/Python_Dark.png#gh-light-mode-only) | Content Cell  |
 
 </details>
 
