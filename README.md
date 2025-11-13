@@ -9,8 +9,8 @@
     </summary>
     <h1></h1>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/AboutMe_Dark.png" alt="AboutMe"/>
-        <img src="Media/AboutMe_Light.png" alt="AboutMe">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/AboutMe_Light.png" alt="AboutMe"/>
+        <img src="Media/AboutMe_Dark.png" alt="AboutMe">
     </picture>
     <br>
     <a href="#">
