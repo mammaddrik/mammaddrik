@@ -17,11 +17,10 @@
         <img src="Media/Text/12.png"align="left">
     </a>
     <picture>
-        <br>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
         <img src="Media/Text/3.png" alt="Skill">
     </picture>
-    <br>
+    <br><br>
     <a href="#">
         <img src="Media/Icon/11.png" align="left">
     </a>
