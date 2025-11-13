@@ -22,6 +22,7 @@
         <img src="Media/Text/3.png" alt="Skill">
     </picture>
     <a href="#">
+        <br>
         <img src="Media/Icon/11.png" align="left">
     </a>
 
