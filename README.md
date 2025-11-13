@@ -27,8 +27,8 @@
     <a href="#">
         <br>
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Light.png" alt="Skill&Tools" align="left"/>
-            <img src="Media/Sword_Dark.png" alt="Skill&Tools" align="left">
+            <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" align="left"/>
+            <img src="Media/Sword_Light.png" alt="Sword" align="left">
         </picture>
     </a>
 <br>
