@@ -1,35 +1,43 @@
-![Text](Media/Text/Text_Light.png#gh-dark-mode-only)
-![Text](Media/Text/Text_Dark.png#gh-light-mode-only)
+![Text](Media/Text_Light.png#gh-dark-mode-only)
+![Text](Media/Text_Dark.png#gh-light-mode-only)
 
 <details align="center">
     <summary>
         <a href="#">
-            <img src="Media/Banner/giphy.gif" width="240" height="240" style="display: block" alt="logo"/>
+            <img src="Media/Berserk.gif" width="240" height="240" style="display: block" alt="logo"/>
         </a>
     </summary>
     <h1></h1>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Text/10.png" alt="Skill"/>
-        <img src="Media/Text/9.png" alt="AboutMe">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/AboutMe_Light.png" alt="AboutMe"/>
+        <img src="Media/AboutMe_Dark.png" alt="AboutMe">
     </picture>
     <br>
     <a href="#">
-        <img src="Media/Text/12.png" align="center">
-        <h1></h1>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/GutsText_Light.png" alt="GutsText"/>
+        <img src="Media/GutsText_Dark.png" alt="GutsText">
+    </picture>
+    <h1></h1>
     </a>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
-        <img src="Media/Text/3.png" alt="Skill">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/SkillsTools_Light.png" alt="Skill&Tools"/>
+        <img src="Media/SkillsTools_Dark.png" alt="Skill&Tools">
     </picture>
     <a href="#">
         <br>
-        <img src="Media/Icon/11.png" align="left">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Light.png" alt="Skill&Tools" align="left"/>
+            <img src="Media/Sword_Dark.png" alt="Skill&Tools" align="left">
+        </picture>
     </a>
 <br>
 
-| <img src="Media/Icon/56.png" height="32"> | <img src="Media/Icon/58.png" height="32"> |
+| ![Text](Media/Skills_Light.png#gh-dark-mode-only)
+![Text](Media/Skills_Dark#gh-light-mode-only) | ![Text](Media/Tools_Light.png#gh-dark-mode-only)
+![Text](Media/Tools_Dark#gh-light-mode-only) |
 | :---: | :---: |
-| ![Text](Media/Icon/python_li.png#gh-dark-mode-only) | 
+|       |       |
 
 
 </details>
