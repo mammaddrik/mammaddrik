@@ -15,8 +15,8 @@
     <br>
     <a href="#">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/GutsText_Light.png" alt="GutsText"/>
-        <img src="Media/GutsText_Dark.png" alt="GutsText">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/GutsText_Dark.png" alt="GutsText"/>
+        <img src="Media/GutsText_Light.png" alt="GutsText">
     </picture>
     <h1></h1>
     </a>
