@@ -29,7 +29,7 @@
 
 | Skills | Tools |
 | ------ | ----- |
-| <img src="Media/Icon/11.png" align="left"> | 
+| <img src="Media/Icon/python.png" width="32" height="32"> | 
 
 
 </details>
