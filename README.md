@@ -21,7 +21,7 @@
         <img src="Media/Text/3.png" alt="Skill">
     </picture>
     <h1></h1>
-    <br><br>
+    <br>
     <a href="#">
         <img src="Media/Icon/11.png" align="left">
     </a>
