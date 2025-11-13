@@ -4,21 +4,20 @@
 <details align="center">
     <summary>
         <a href="#">
-            <img src="Media/Banner/giphy.gif" width="240" height="240" style="display: block"/>
+            <img src="Media/Banner/giphy.gif" width="240" height="240" style="display: block" alt="logo"/>
         </a>
     </summary>
     <h1></h1>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Text/10.png" alt="Skill"/>
-        <img src="Media/Text/9.png" alt="Skill">
+        <img src="Media/Text/9.png" alt="AboutMe">
     </picture>
     <br>
     <a href="#">
         <img src="Media/Text/12.png"align="left">
     </a>
-    <br>
     <picture>
-    <h1></h1>
+        <br>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
         <img src="Media/Text/3.png" alt="Skill">
     </picture>
@@ -26,7 +25,7 @@
     <a href="#">
         <img src="Media/Icon/11.png" align="left">
     </a>
-    <h1></h1>
+
 <br><br><br>
 
 | First Header  | Second Header |
