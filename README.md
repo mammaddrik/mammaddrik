@@ -25,13 +25,12 @@
         <br>
         <img src="Media/Icon/11.png" align="left">
     </a>
+<br>
 
-<br><br><br>
+| Skills | Tools |
+| ------ | ----- |
+| <img src="Media/Icon/11.png" align="left"> | 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 
 </details>
 
