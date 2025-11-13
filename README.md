@@ -15,13 +15,13 @@
     <br>
     <a href="#">
         <img src="Media/Text/12.png"align="left">
+        <h1></h1><h1></h1><h1></h1><h1></h1><h1></h1><h1></h1><h1></h1><h1></h1><h1></h1><h1></h1><h1></h1><h1></h1><h1></h1><h1></h1><br><h1></h1>
     </a>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Text/4.png" alt="Skill"/>
         <img src="Media/Text/3.png" alt="Skill">
     </picture>
     <a href="#">
-        <h1></h1>
         <img src="Media/Icon/11.png" align="left">
     </a>
 
