@@ -27,7 +27,7 @@
     </a>
 <br>
 
-| Skills | Tools |
+| <img src="Media/Icon/56.png"> | <img src="Media/Icon/58.png"> |
 | ------ | ----- |
 | <img src="Media/Icon/python.png" width="32" height="32"> | 
 
