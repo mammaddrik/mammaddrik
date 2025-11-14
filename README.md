@@ -1,9 +1,12 @@
 ![Text](Media/Text_Light.png#gh-dark-mode-only)
 ![Text](Media/Text_Dark.png#gh-light-mode-only)
 
-<h1 align="center">
-    <img src="Media/Berserk.gif" width="240" height="240" alt="Garns logo">
-</h1>
+<div align="center">
+    <img src="Media/Berserk.gif" width="240" height="240" alt="Berserk">
+</div>
+
+# 
+
 <h3 align="center">
 
 ![Text](Media/AboutMe_Light.png#gh-dark-mode-only)
