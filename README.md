@@ -1,7 +1,7 @@
 ![Text](Media/Text_Light.png#gh-dark-mode-only)
 ![Text](Media/Text_Dark.png#gh-light-mode-only)
 
-<details align="center">
+<details>
     <summary>
         <a href="#">
             <img src="Media/Berserk.gif" width="240" height="240" style="display: block" alt="logo"/>
@@ -33,7 +33,7 @@
     </a>
 <br>
 
-| text                                                                                                | ![Text](Media/Tools.png)              |
+| ![Text](Media/Skills.png)                                                                           | ![Text](Media/Tools.png)              |
 | :-------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | ![Text](Media/Python_Light.png#gh-dark-mode-only) ![Text](Media/Python_Dark.png#gh-light-mode-only) | Text  |
 | ![Text](Media/Django_Light.png#gh-dark-mode-only) ![Text](Media/Django_Dark.png#gh-light-mode-only) | Content Cell  |
