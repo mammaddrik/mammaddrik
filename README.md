@@ -37,6 +37,7 @@
 | :---------------------------------------: | :-------------------------------------: |
 | ![Text](Media/Python_Light.png#gh-dark-mode-only) ![Text](Media/Python_Dark.png#gh-light-mode-only) | Content Cell  |
 | ![Text](Media/Html_Light.png#gh-dark-mode-only) ![Text](Media/Html_Dark.png#gh-light-mode-only) | Content Cell  |
+| ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only) | Content Cell  |
 
 </details>
 
