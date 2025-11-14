@@ -34,7 +34,7 @@
 <br>
 
 | <img src="Media/Skills.png" alt="Skills"> | <img src="Media/Tools.png" alt="Tools"> |
-| :---------------------------------------: | :-------------------------------------: |
+| :--------------------------------------- | :-------------------------------------: |
 | ![Text](Media/Python_Light.png#gh-dark-mode-only) ![Text](Media/Python_Dark.png#gh-light-mode-only) | Text  |
 | ![Text](Media/Django_Light.png#gh-dark-mode-only) ![Text](Media/Django_Dark.png#gh-light-mode-only) | Content Cell  |
 | ![Text](Media/Ruby_Light.png#gh-dark-mode-only) ![Text](Media/Ruby_Dark.png#gh-light-mode-only) | Content Cell  |
