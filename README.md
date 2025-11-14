@@ -26,11 +26,12 @@
         <img src="Media/SkillsTools_Dark.png" alt="Skill&Tools">
     </picture>
 </div>
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" align="left"/>
-    <img src="Media/Sword_Light.png" alt="Sword" align="left">
-</picture>
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" align="left"/>
+        <img src="Media/Sword_Light.png" alt="Sword" align="left">
+    </picture>
+</div>
 
 <br>
 
