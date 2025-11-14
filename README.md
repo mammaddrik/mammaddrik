@@ -6,35 +6,34 @@
 </div>
 
 # 
-
-<h3 align="center">
-
-![Text](Media/AboutMe_Light.png#gh-dark-mode-only)
-![Text]("Media/AboutMe_Dark.png"#gh-light-mode-only)
-</h3>
-    <br>
-    <a href="#">
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/AboutMe_Light.png" alt="GutsText"/>
+        <img src="Media/AboutMe_Dark.png" alt="GutsText">
+    </picture>
+</div>
+<div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/GutsText_Dark.png" alt="GutsText"/>
         <img src="Media/GutsText_Light.png" alt="GutsText">
     </picture>
-    <h1></h1>
-    </a>
+</div>
+
+#
+<div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/SkillsTools_Light.png" alt="Skill&Tools"/>
         <img src="Media/SkillsTools_Dark.png" alt="Skill&Tools">
     </picture>
-    <a href="#">
-        <br>
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" align="left"/>
-            <img src="Media/Sword_Light.png" alt="Sword" align="left">
-        </picture>
-    </a>
-<br>
+</div>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" align="left"/>
+    <img src="Media/Sword_Light.png" alt="Sword" align="left">
+</picture>
 
 | ![Text](Media/Skills.png)                                                                           | ![Text](Media/Tools.png)              |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| :-------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | ![Text](Media/Python_Light.png#gh-dark-mode-only) ![Text](Media/Python_Dark.png#gh-light-mode-only) | Text  |
 | ![Text](Media/Django_Light.png#gh-dark-mode-only) ![Text](Media/Django_Dark.png#gh-light-mode-only) | Content Cell  |
 | ![Text](Media/Ruby_Light.png#gh-dark-mode-only) ![Text](Media/Ruby_Dark.png#gh-light-mode-only)     | Content Cell  |
