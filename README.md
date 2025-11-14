@@ -1,17 +1,16 @@
 ![Text](Media/Text_Light.png#gh-dark-mode-only)
 ![Text](Media/Text_Dark.png#gh-light-mode-only)
 
-<details>
-    <summary>
-        <a href="#" align="center">
-            <img src="Media/Berserk.gif" width="240" height="240" style="display: block" alt="logo"/>
-        </a>
-    </summary>
-    <h1></h1>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/AboutMe_Light.png" alt="AboutMe"/>
-        <img src="Media/AboutMe_Dark.png" alt="AboutMe">
-    </picture>
+<h1 align="center">
+    <a href="#">
+        <img src="Media/Berserk.gif" width="240" height="240" alt="Garns logo">
+    </a>
+</h1>
+<h3 align="center">
+
+![Text](Media/AboutMe_Light.png#gh-dark-mode-only)
+![Text]("Media/AboutMe_Dark.png"#gh-light-mode-only)
+</h3>
     <br>
     <a href="#">
     <picture>
@@ -41,7 +40,6 @@
 | ![Text](Media/Html_Light.png#gh-dark-mode-only) ![Text](Media/Html_Dark.png#gh-light-mode-only)     | Content Cell  |
 | ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       | Content Cell  |
 
-</details>
 
 <!-- <a href="#">
     <img src="Media/Icon/7.png" width="240" height="240" align="right">
