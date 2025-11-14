@@ -3,25 +3,25 @@
 
 <details>
     <summary>
-        <a href="#">
-            <img src="Media/Berserk.gif" width="240" height="240" style="display: block" alt="logo" align="center"/>
+        <a href="#" align="center">
+            <img src="Media/Berserk.gif" width="240" height="240" style="display: block" alt="logo"/>
         </a>
     </summary>
     <h1></h1>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/AboutMe_Light.png" alt="AboutMe" align="center"/>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/AboutMe_Light.png" alt="AboutMe"/>
         <img src="Media/AboutMe_Dark.png" alt="AboutMe">
     </picture>
     <br>
     <a href="#">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/GutsText_Dark.png" alt="GutsText" align="center"/>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/GutsText_Dark.png" alt="GutsText"/>
         <img src="Media/GutsText_Light.png" alt="GutsText">
     </picture>
     <h1></h1>
     </a>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/SkillsTools_Light.png" alt="Skill&Tools" align="center"/>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/SkillsTools_Light.png" alt="Skill&Tools"/>
         <img src="Media/SkillsTools_Dark.png" alt="Skill&Tools">
     </picture>
     <a href="#">
