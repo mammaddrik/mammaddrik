@@ -4,24 +4,24 @@
 <details>
     <summary>
         <a href="#">
-            <img src="Media/Berserk.gif" width="240" height="240" style="display: block" alt="logo"/>
+            <img src="Media/Berserk.gif" width="240" height="240" style="display: block" alt="logo" align="center"/>
         </a>
     </summary>
     <h1></h1>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/AboutMe_Light.png" alt="AboutMe"/>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/AboutMe_Light.png" alt="AboutMe" align="center"/>
         <img src="Media/AboutMe_Dark.png" alt="AboutMe">
     </picture>
     <br>
     <a href="#">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/GutsText_Dark.png" alt="GutsText"/>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/GutsText_Dark.png" alt="GutsText" align="center"/>
         <img src="Media/GutsText_Light.png" alt="GutsText">
     </picture>
     <h1></h1>
     </a>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/SkillsTools_Light.png" alt="Skill&Tools"/>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/SkillsTools_Light.png" alt="Skill&Tools" align="center"/>
         <img src="Media/SkillsTools_Dark.png" alt="Skill&Tools">
     </picture>
     <a href="#">
@@ -42,14 +42,6 @@
 | ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       | Content Cell  |
 
 </details>
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 
 <!-- <a href="#">
     <img src="Media/Icon/7.png" width="240" height="240" align="right">
