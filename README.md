@@ -28,8 +28,8 @@
 </div>
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" height="536" align="left"/>
-        <img src="Media/Sword_Light.png" alt="Sword" height="536" align="left">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" align="left"/>
+        <img src="Media/Sword_Light.png" alt="Sword" align="left">
     </picture>
 </div>
 
@@ -43,8 +43,10 @@
 | ![Text](Media/Ruby_Light.png#gh-dark-mode-only) ![Text](Media/Ruby_Dark.png#gh-light-mode-only)     | Content Cell  |
 | ![Text](Media/JavaScript_Light.png#gh-dark-mode-only) ![Text](Media/JavaScript_Dark.png#gh-light-mode-only)     | Content Cell  |
 | ![Text](Media/Html_Light.png#gh-dark-mode-only) ![Text](Media/Html_Dark.png#gh-light-mode-only)     | Content Cell  |
-| ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       | ![Text](Media/MicrosoftOffice_Light.png#gh-dark-mode-only) ![Text](Media/MicrosoftOffice_Dark.png#gh-light-mode-only) |
+| ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       |  |
 
+
+<!-- ![Text](Media/MicrosoftOffice_Light.png#gh-dark-mode-only) ![Text](Media/MicrosoftOffice_Dark.png#gh-light-mode-only) -->
 
 <!-- <a href="#">
     <img src="Media/Icon/7.png" width="240" height="240" align="right">
