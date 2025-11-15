@@ -43,7 +43,7 @@
 | ![Text](Media/Ruby_Light.png#gh-dark-mode-only) ![Text](Media/Ruby_Dark.png#gh-light-mode-only)     | Content Cell  |
 | ![Text](Media/JavaScript_Light.png#gh-dark-mode-only) ![Text](Media/JavaScript_Dark.png#gh-light-mode-only)     | Content Cell  |
 | ![Text](Media/Html_Light.png#gh-dark-mode-only) ![Text](Media/Html_Dark.png#gh-light-mode-only)     | Content Cell  |
-| ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       | Content Cell  |
+| ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       | ![Text](Media/MicrosoftOffice_Light.png#gh-dark-mode-only) ![Text](Media/MicrosoftOffice_Dark.png#gh-light-mode-only) |
 
 
 <!-- <a href="#">
