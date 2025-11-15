@@ -41,6 +41,7 @@
 | ![Text](Media/Django_Light.png#gh-dark-mode-only) ![Text](Media/Django_Dark.png#gh-light-mode-only) | Content Cell  |
 | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)     | Content Cell  |
 | ![Text](Media/Ruby_Light.png#gh-dark-mode-only) ![Text](Media/Ruby_Dark.png#gh-light-mode-only)     | Content Cell  |
+| ![Text](Media/JavaScript_Light.png#gh-dark-mode-only) ![Text](Media/JavaScript_Dark.png#gh-light-mode-only)     | Content Cell  |
 | ![Text](Media/Html_Light.png#gh-dark-mode-only) ![Text](Media/Html_Dark.png#gh-light-mode-only)     | Content Cell  |
 | ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       | Content Cell  |
 
@@ -87,3 +88,4 @@
 <img height='165px' src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=011627&color=7fdbca&line=c792ea&point=ffffff&title_color=7fdbca&icon_color=c792ea&text_color=ffffff&hide_border=true&rank_icon=github"> <img height='165px' src="https://streak-stats.demolab.com/?user=mammaddrik&stroke=ffffff&&background=011627&ring=7fdbca&fire=c792ea&currStreakNum=ffffff&currStreakLabel=c792ea&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"></h1><p>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=011627&color=7fdbca&line=c792ea&point=ffffff&custom_title=GitHub%20Commits%20Graph&hide_border=true)](https://github.com/mammaddrik) -->
+<!-- Feel free to add me if you need any help -->
