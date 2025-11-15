@@ -28,8 +28,8 @@
 </div>
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" height="636" align="left"/>
-        <img src="Media/Sword_Light.png" alt="Sword" height="636" align="left">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" height="536" align="left"/>
+        <img src="Media/Sword_Light.png" alt="Sword" height="536" align="left">
     </picture>
 </div>
 
