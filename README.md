@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 ![Text](Media/Text_Light.png#gh-dark-mode-only)
 ![Text](Media/Text_Dark.png#gh-light-mode-only)
 
@@ -71,6 +73,12 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/SkillsTools_Light.png" alt="Skill&Tools"/>
         <img src="Media/SkillsTools_Dark.png" alt="Skill&Tools">
     </picture>
+</div>
+
+<div align="right">
+    <a href="#top">
+        <img src="Media/Behelit.png" alt="Skill&Tools" height="40px">
+    </a>
 </div>
 
 <!-- ![Text](Media/MicrosoftOffice_Light.png#gh-dark-mode-only) ![Text](Media/MicrosoftOffice_Dark.png#gh-light-mode-only) -->
