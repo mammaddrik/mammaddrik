@@ -89,10 +89,10 @@
         <img src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=0D1117&title_color=fff&icon_color=881F1F&text_color=fff&hide_border=true&rank_icon=github&hide_title=true" alt="Stats"  height='140px'>
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=0D1117&title_color=fff&icon_color=881F1F&text_color=fff&hide_border=true&rank_icon=github&hide_title=true" alt="Skill&Tools" height='140px' align="right"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=0D1117&title_color=fff&icon_color=881F1F&text_color=fff&hide_border=true&rank_icon=github&hide_title=true" alt="Stats"  height='140x' align="right">
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mammaddrik&stroke=881F1F&background=0D1117&ring=fff&fire=881F1F&currStreakNum=fff&currStreakLabel=881F1F&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true" alt="Skill&Tools" height='140px' align="right"/>
+        <img src="https://streak-stats.demolab.com/?user=mammaddrik&stroke=881F1F&background=0D1117&ring=fff&fire=881F1F&currStreakNum=fff&currStreakLabel=881F1F&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true"  height='165px'>
     </picture>
-<img src="https://streak-stats.demolab.com/?user=mammaddrik&stroke=881F1F&background=0D1117&ring=fff&fire=881F1F&currStreakNum=fff&currStreakLabel=881F1F&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true"  height='165px'>
+
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=011627&color=7fdbca&line=c792ea&point=fff&custom_title=GitHub%20Commits%20Graph&hide_border=true)](https://github.com/mammaddrik)
