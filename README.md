@@ -27,14 +27,14 @@
     </picture>
 </div>
 
-<div align="center">
+<div align="Right">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" align="Right" height="379px"/>
-        <img src="Media/Casca.png" alt="Casca" align="Right" height="379px">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" height="379px"/>
+        <img src="Media/Casca.png" alt="Casca" height="379px">
     </picture>
 </div>
 
-<br>
+<br><br><br>
 
 #
 <div align="center">
