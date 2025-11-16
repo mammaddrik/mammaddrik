@@ -70,8 +70,8 @@
 #
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/SkillsTools_Light.png" alt="Skill&Tools"/>
-        <img src="Media/SkillsTools_Dark.png" alt="Skill&Tools">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/MyProjects_Light.png" alt="Skill&Tools"/>
+        <img src="Media/MyProjects_Dark.png" alt="MyProjects">
     </picture>
 </div>
 
