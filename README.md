@@ -1,5 +1,3 @@
-<div id="top"></div>
-
 ![Text](Media/Text_Light.png#gh-dark-mode-only)
 ![Text](Media/Text_Dark.png#gh-light-mode-only)
 
@@ -97,13 +95,6 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=fff&color=000&line=881F1F&point=000&hide_title=true&hide_border=true" alt="Skill&Tools">
     </picture>
 </div>
-
-<div align="right">
-    <a href="#top">
-        <img src="Media/Behelit.png" alt="Behelit" height="40px">
-    </a>
-</div>
-
 
 <!-- <img height='165px' src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=0D1117&title_color=fff&icon_color=881F1F&text_color=fff&hide_border=true&rank_icon=github&hide_title=true"> -->
 
