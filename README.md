@@ -75,9 +75,17 @@
     </picture>
 </div>
 
+#
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Stats_Light.png" alt="Skill&Tools"/>
+        <img src="Media/Stats_Dark.png" alt="Stats">
+    </picture>
+</div>
+
 <div align="right">
     <a href="#top">
-        <img src="Media/Behelit.png" alt="Skill&Tools" height="40px">
+        <img src="Media/Behelit.png" alt="Behelit" height="40px">
     </a>
 </div>
 
