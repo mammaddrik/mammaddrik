@@ -45,7 +45,10 @@
 | ![Text](Media/Html_Light.png#gh-dark-mode-only) ![Text](Media/Html_Dark.png#gh-light-mode-only)     | ![Text](Media/Docker_Light.png#gh-dark-mode-only) ![Text](Media/Docker_Dark.png#gh-light-mode-only) |
 | ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
 | ![Text](Media/WordPress_Light.png#gh-dark-mode-only) ![Text](Media/WordPress_Dark.png#gh-light-mode-only)       | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
-
+| ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
+| ![Text](Media/WordPress_Light.png#gh-dark-mode-only) ![Text](Media/WordPress_Dark.png#gh-light-mode-only)       | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
+| ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
+| ![Text](Media/WordPress_Light.png#gh-dark-mode-only) ![Text](Media/WordPress_Dark.png#gh-light-mode-only)       | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
 
 <!-- ![Text](Media/MicrosoftOffice_Light.png#gh-dark-mode-only) ![Text](Media/MicrosoftOffice_Dark.png#gh-light-mode-only) -->
 
