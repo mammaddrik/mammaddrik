@@ -94,7 +94,7 @@
     </picture>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=011627&color=7fdbca&line=c792ea&point=fff&custom_title=GitHub%20Commits%20Graph&hide_border=true)](https://github.com/mammaddrik)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=0D1117&color=fff&line=881F1F&point=fff&hide_title=true&hide_border=true)](https://github.com/mammaddrik)
 
 <div align="right">
     <a href="#top">
