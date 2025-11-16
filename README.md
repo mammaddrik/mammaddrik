@@ -39,7 +39,7 @@
 | --------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | ![Text](Media/Python_Light.png#gh-dark-mode-only) ![Text](Media/Python_Dark.png#gh-light-mode-only) | ![Text](Media/Git_Light.png#gh-dark-mode-only) ![Text](Media/Git_Dark.png#gh-light-mode-only) |
 | ![Text](Media/Django_Light.png#gh-dark-mode-only) ![Text](Media/Django_Dark.png#gh-light-mode-only) | ![Text](Media/MySQL_Light.png#gh-dark-mode-only) ![Text](Media/MySQL_Dark.png#gh-light-mode-only) |
-| ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)     | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
+| ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)     | ![Text](Media/Linux_Light.png#gh-dark-mode-only) ![Text](Media/Linux_Dark.png#gh-light-mode-only) |
 | ![Text](Media/Ruby_Light.png#gh-dark-mode-only) ![Text](Media/Ruby_Dark.png#gh-light-mode-only)     | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
 | ![Text](Media/JavaScript_Light.png#gh-dark-mode-only) ![Text](Media/JavaScript_Dark.png#gh-light-mode-only)     | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
 | ![Text](Media/Html_Light.png#gh-dark-mode-only) ![Text](Media/Html_Dark.png#gh-light-mode-only)     | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
