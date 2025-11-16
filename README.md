@@ -65,6 +65,14 @@
 | ![Text](Media/WordPress_Light.png#gh-dark-mode-only) ![Text](Media/WordPress_Dark.png#gh-light-mode-only) | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
 | ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only) | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
 
+#
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/SkillsTools_Light.png" alt="Skill&Tools"/>
+        <img src="Media/SkillsTools_Dark.png" alt="Skill&Tools">
+    </picture>
+</div>
+
 <!-- ![Text](Media/MicrosoftOffice_Light.png#gh-dark-mode-only) ![Text](Media/MicrosoftOffice_Dark.png#gh-light-mode-only) -->
 
 <!-- <a href="#">
