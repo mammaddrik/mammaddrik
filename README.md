@@ -83,7 +83,7 @@
     </picture>
 </div>
 
-<div align="left">
+<div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=0D1117&title_color=fff&icon_color=881F1F&text_color=fff&hide_border=true&rank_icon=github&hide_title=true"" alt="Skill&Tools"/>
         <img src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=fff&title_color=000&icon_color=881F1F&text_color=000&hide_border=true&rank_icon=github&hide_title=true" alt="Stats">
