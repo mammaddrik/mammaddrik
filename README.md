@@ -22,10 +22,19 @@
 #
 <div align="center">
     <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/SocialMedia_Light.png" alt="Skill&Tools"/>
+        <img src="Media/SocialMedia_Dark.png" alt="SocialMedia">
+    </picture>
+</div>
+
+#
+<div align="center">
+    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/SkillsTools_Light.png" alt="Skill&Tools"/>
         <img src="Media/SkillsTools_Dark.png" alt="Skill&Tools">
     </picture>
 </div>
+
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" align="left"/>
@@ -35,19 +44,19 @@
 
 <br>
 
-| ![Text](Media/Skills.png)                                                                           | ![Text](Media/Tools.png)              |
-| --------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| ![Text](Media/Skills.png) | ![Text](Media/Tools.png) |
+| --------------------------| ------------------------ |
 | ![Text](Media/Python_Light.png#gh-dark-mode-only) ![Text](Media/Python_Dark.png#gh-light-mode-only) | ![Text](Media/Git_Light.png#gh-dark-mode-only) ![Text](Media/Git_Dark.png#gh-light-mode-only) |
 | ![Text](Media/Django_Light.png#gh-dark-mode-only) ![Text](Media/Django_Dark.png#gh-light-mode-only) | ![Text](Media/MySQL_Light.png#gh-dark-mode-only) ![Text](Media/MySQL_Dark.png#gh-light-mode-only) |
-| ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)     | ![Text](Media/Linux_Light.png#gh-dark-mode-only) ![Text](Media/Linux_Dark.png#gh-light-mode-only) |
-| ![Text](Media/Ruby_Light.png#gh-dark-mode-only) ![Text](Media/Ruby_Dark.png#gh-light-mode-only)     | ![Text](Media/Photoshop_Light.png#gh-dark-mode-only) ![Text](Media/Photoshop_Dark.png#gh-light-mode-only) |
-| ![Text](Media/JavaScript_Light.png#gh-dark-mode-only) ![Text](Media/JavaScript_Dark.png#gh-light-mode-only)     | ![Text](Media/XD_Light.png#gh-dark-mode-only) ![Text](Media/XD_Dark.png#gh-light-mode-only) |
-| ![Text](Media/Html_Light.png#gh-dark-mode-only) ![Text](Media/Html_Dark.png#gh-light-mode-only)     | ![Text](Media/Docker_Light.png#gh-dark-mode-only) ![Text](Media/Docker_Dark.png#gh-light-mode-only) |
-| ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
-| ![Text](Media/WordPress_Light.png#gh-dark-mode-only) ![Text](Media/WordPress_Dark.png#gh-light-mode-only)       | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
-| ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
-| ![Text](Media/WordPress_Light.png#gh-dark-mode-only) ![Text](Media/WordPress_Dark.png#gh-light-mode-only)       | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
-| ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
+| ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) | ![Text](Media/Linux_Light.png#gh-dark-mode-only) ![Text](Media/Linux_Dark.png#gh-light-mode-only) |
+| ![Text](Media/Ruby_Light.png#gh-dark-mode-only) ![Text](Media/Ruby_Dark.png#gh-light-mode-only) | ![Text](Media/Photoshop_Light.png#gh-dark-mode-only) ![Text](Media/Photoshop_Dark.png#gh-light-mode-only) |
+| ![Text](Media/JavaScript_Light.png#gh-dark-mode-only) ![Text](Media/JavaScript_Dark.png#gh-light-mode-only) | ![Text](Media/XD_Light.png#gh-dark-mode-only) ![Text](Media/XD_Dark.png#gh-light-mode-only) |
+| ![Text](Media/Html_Light.png#gh-dark-mode-only) ![Text](Media/Html_Dark.png#gh-light-mode-only) | ![Text](Media/Docker_Light.png#gh-dark-mode-only) ![Text](Media/Docker_Dark.png#gh-light-mode-only) |
+| ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only) | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
+| ![Text](Media/WordPress_Light.png#gh-dark-mode-only) ![Text](Media/WordPress_Dark.png#gh-light-mode-only) | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
+| ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only) | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
+| ![Text](Media/WordPress_Light.png#gh-dark-mode-only) ![Text](Media/WordPress_Dark.png#gh-light-mode-only) | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
+| ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only) | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
 
 <!-- ![Text](Media/MicrosoftOffice_Light.png#gh-dark-mode-only) ![Text](Media/MicrosoftOffice_Dark.png#gh-light-mode-only) -->
 
