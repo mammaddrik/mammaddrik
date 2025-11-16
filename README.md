@@ -83,6 +83,13 @@
     </picture>
 </div>
 
+<div align="center">
+    <img height='165px' src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=0D1117&title_color=881F1F&icon_color=881F1F&text_color=fff&hide_border=true&rank_icon=github">
+    <img height='165px' src="https://streak-stats.demolab.com/?user=mammaddrik&stroke=881F1F&background=0D1117&ring=fff&fire=881F1F&currStreakNum=fff&currStreakLabel=881F1F&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true"></h1>
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=011627&color=7fdbca&line=c792ea&point=fff&custom_title=GitHub%20Commits%20Graph&hide_border=true)](https://github.com/mammaddrik)
+
 <div align="right">
     <a href="#top">
         <img src="Media/Behelit.png" alt="Behelit" height="40px">
