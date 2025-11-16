@@ -27,6 +27,13 @@
     </picture>
 </div>
 
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Sword" align="Right"/>
+        <img src="Media/Casca.png" alt="Sword" align="Right">
+    </picture>
+</div>
+
 #
 <div align="center">
     <picture>
