@@ -29,8 +29,8 @@
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Sword" align="Right"/>
-        <img src="Media/Casca.png" alt="Sword" align="Right">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" align="Right" height="379px"/>
+        <img src="Media/Casca.png" alt="Casca" align="Right" height="379px">
     </picture>
 </div>
 
