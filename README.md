@@ -42,7 +42,7 @@
 | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)     | ![Text](Media/Linux_Light.png#gh-dark-mode-only) ![Text](Media/Linux_Dark.png#gh-light-mode-only) |
 | ![Text](Media/Ruby_Light.png#gh-dark-mode-only) ![Text](Media/Ruby_Dark.png#gh-light-mode-only)     | ![Text](Media/Photoshop_Light.png#gh-dark-mode-only) ![Text](Media/Photoshop_Dark.png#gh-light-mode-only) |
 | ![Text](Media/JavaScript_Light.png#gh-dark-mode-only) ![Text](Media/JavaScript_Dark.png#gh-light-mode-only)     | ![Text](Media/XD_Light.png#gh-dark-mode-only) ![Text](Media/XD_Dark.png#gh-light-mode-only) |
-| ![Text](Media/Html_Light.png#gh-dark-mode-only) ![Text](Media/Html_Dark.png#gh-light-mode-only)     | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
+| ![Text](Media/Html_Light.png#gh-dark-mode-only) ![Text](Media/Html_Dark.png#gh-light-mode-only)     | ![Text](Media/Docker_Light.png#gh-dark-mode-only) ![Text](Media/Docker_Dark.png#gh-light-mode-only) |
 | ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only)       | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
 | ![Text](Media/WordPress_Light.png#gh-dark-mode-only) ![Text](Media/WordPress_Dark.png#gh-light-mode-only)       | ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) |
 
