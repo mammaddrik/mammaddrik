@@ -36,8 +36,8 @@
 <br>
 
 ![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://t.me/mammaddrik)
-![Instagram](Media/Instagram_Light.png#gh-dark-mode-only) ![Instagram](Media/Instagram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://t.me/mammaddrik)
-![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://t.me/mammaddrik)
+![Instagram](Media/Instagram_Light.png#gh-dark-mode-only) ![Instagram](Media/Instagram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](http://www.instagram.com/mammad.drik)
+![LinkedIn](Media/LinkedIn_Light.png#gh-dark-mode-only) ![LinkedIn](Media/LinkedIn_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://t.me/mammaddrik)
 ![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://t.me/mammaddrik)
 ![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://t.me/mammaddrik)
 ![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://t.me/mammaddrik)
