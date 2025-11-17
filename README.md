@@ -35,17 +35,11 @@
 
 <br>
 
-| ![Telegram](Media/Telegram_Light.png#gh-dark-mode-only)![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) |
-| ------------------------ |
-| ------------------------ |
-| ------------------------ |
-| ------------------------ |
-| ------------------------ |
-| ------------------------ |
-| ------------------------ |
-| ------------------------ |
-| ------------------------ |
-| ------------------------ |
+| ![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) | ----- |
+| ![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) | ----- |
+| ![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) | ----- |
+| ![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) | ----- |
+| ![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) | ----- |
 <!-- https://t.me/mammaddrik -->
 #
 <div align="center">
