@@ -35,7 +35,7 @@
 
 <br>
 
-| ![Text](Media/Telegram_Light.png#gh-dark-mode-only) ![Text](Media/Telegram_Dark.png#gh-light-mode-only) |
+| [![Telegram](Media/Telegram_Light.png#gh-dark-mode-only)](https://t.me/https://t.me/mammaddrik) [![Telegram](Media/Telegram_Dark.png#gh-light-mode-only)](https://t.me/https://t.me/mammaddrik) |
 | ------------------------ |
 | ------------------------ |
 | ------------------------ |
