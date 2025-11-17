@@ -37,8 +37,8 @@
 
 | Link | QrCode |
 | ---- | ------ |
-| ![Text](Media/Telegram_Light.png#gh-dark-mode-only) ![Text](Media/Telegram_Dark.png#gh-light-mode-only) | ![Text](Media/qr-code.png#gh-dark-mode-only) ![Text](Media/qr-code.png#gh-light-mode-only) |
-| ------------------------ | ------------------------- |
+| ![Text](Media/Telegram_Light.png#gh-dark-mode-only) ![Text](Media/Telegram_Dark.png#gh-light-mode-only) | ![Text](Media/qr-code.svg#gh-dark-mode-only) ![Text](Media/qr-code.svg#gh-light-mode-only) |
+| ------------------------ | <img src="Media/qr-code.svg" alt="Casca" height="50px"> |
 | ------------------------ | ------------------------- |
 | ------------------------ | ------------------------- |
 | ------------------------ | ------------------------- |
