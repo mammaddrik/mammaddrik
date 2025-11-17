@@ -37,7 +37,7 @@
 
 | Link | QrCode |
 | ---- | ------ |
-| ![Text](Media/Telegram_Light.png#gh-dark-mode-only) ![Text](Media/Telegram_Dark.png#gh-light-mode-only) | ------------------------- |
+| ![Text](Media/Telegram_Light.png#gh-dark-mode-only) ![Text](Media/Telegram_Dark.png#gh-light-mode-only) | ![Text](Media/qr-code.png#gh-dark-mode-only) ![Text](Media/qr-code.png#gh-light-mode-only) |
 | ------------------------ | ------------------------- |
 | ------------------------ | ------------------------- |
 | ------------------------ | ------------------------- |
