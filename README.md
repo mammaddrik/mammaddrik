@@ -26,6 +26,12 @@
         <img src="Media/SocialMedia_Dark.png" alt="SocialMedia">
     </picture>
 </div>
+<div>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" height="379px" align="right"/>
+        <img src="Media/Casca.png" alt="Casca" height="379px" align="right">
+    </picture>
+</div>
 
 | Link | QrCode |
 | ------------------------ | ------------------------- |
@@ -38,12 +44,7 @@
 | ------------------------ | ------------------------- |
 | ------------------------ | ------------------------- |
 
-<div align="Right">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" height="379px"/>
-        <img src="Media/Casca.png" alt="Casca" height="379px" >
-    </picture>
-</div>
+
 
 #
 <div align="center">
