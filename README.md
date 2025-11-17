@@ -34,7 +34,7 @@
 <div align="Right">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" height="379px"/>
-        <img src="Media/Casca.png" alt="Casca" height="379px">
+        <img src="Media/Casca.png" alt="Casca" height="379px" >
     </picture>
 </div>
 
@@ -46,7 +46,7 @@
     </picture>
 </div>
 
-<div align="center">
+<div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" align="left"/>
         <img src="Media/Sword_Light.png" alt="Sword" align="left">
