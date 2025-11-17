@@ -22,10 +22,14 @@
 #
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/SocialMedia_Light.png" alt="Skill&Tools"/>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/SocialMedia_Light.png" alt="SocialMedia"/>
         <img src="Media/SocialMedia_Dark.png" alt="SocialMedia">
     </picture>
 </div>
+
+| Link | QrCode |
+| ------------------------ | ------------------------- |
+| ------------------------ | ------------------------- |
 
 <div align="Right">
     <picture>
@@ -95,6 +99,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=fff&color=000&line=881F1F&point=000&hide_title=true&hide_border=true" alt="Skill&Tools">
     </picture>
 </div>
+
 
 <!-- <img height='165px' src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=0D1117&title_color=fff&icon_color=881F1F&text_color=fff&hide_border=true&rank_icon=github&hide_title=true"> -->
 
