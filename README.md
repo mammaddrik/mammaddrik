@@ -26,10 +26,10 @@
     </picture>
 </div>
 
-<div align="center">
+<div>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" height="329px" />
-        <img src="Media/Casca.png" alt="Casca" height="329px">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" height="329px" align="right"/>
+        <img src="Media/Casca.png" alt="Casca" height="329px" align="right">
     </picture>
     <br>
     <a href="https://t.me/mammaddrik">
