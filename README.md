@@ -67,8 +67,7 @@
             <img src="Media/YouTube_Dark.png" alt="YouTube">
         </picture>
     </a>
-    <br>
-    
+    <br><br>
 </div>
 
 #
