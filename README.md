@@ -88,9 +88,7 @@
 
 <br>
 
-![Text](Media/Skills.png) ![Text](Media/Tools.png)
-
-| ![Text](Media/Skills.png) | ![Text](Media/Tools.png) |
+|  |  |
 | --------------------------| ------------------------ |
 | ![Text](Media/Python_Light.png#gh-dark-mode-only) ![Text](Media/Python_Dark.png#gh-light-mode-only) | ![Text](Media/Git_Light.png#gh-dark-mode-only) ![Text](Media/Git_Dark.png#gh-light-mode-only) |
 | ![Text](Media/Django_Light.png#gh-dark-mode-only) ![Text](Media/Django_Dark.png#gh-light-mode-only) | ![Text](Media/MySQL_Light.png#gh-dark-mode-only) ![Text](Media/MySQL_Dark.png#gh-light-mode-only) |
