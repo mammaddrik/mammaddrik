@@ -40,9 +40,8 @@
 ![LinkedIn](Media/LinkedIn_Light.png#gh-dark-mode-only) ![LinkedIn](Media/LinkedIn_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://www.linkedin.com/in/mammaddrik/)
 ![Steam](Media/Steam_Light.png#gh-dark-mode-only) ![Telegram](Media/Steam_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://steamcommunity.com/id/Buddy_Bee/)
 ![YouTube](Media/YouTube_Light.png#gh-dark-mode-only) ![YouTube](Media/YouTube_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://www.youtube.com/@quipu-code)
-<!-- ![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://t.me/mammaddrik)
-![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://t.me/mammaddrik)
-![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://t.me/mammaddrik) -->
+<br><br>
+
 #
 <div align="center">
     <picture>
@@ -97,7 +96,7 @@
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mammaddrik&stroke=881F1F&background=0D1117&ring=fff&fire=881F1F&currStreakNum=fff&currStreakLabel=881F1F&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true&date_format=%5BY.%5Dn.j" alt="Skill&Tools" height='151px' align="right"/>
-        <img src="https://streak-stats.demolab.com/?user=mammaddrik&stroke=881F1F&background=fff&ring=000&fire=881F1F&currStreakNum=000&currStreakLabel=881F1F&sideNums=000&sideLabels=000&dates=000&hide_border=true"  height='151px'>
+        <img src="https://streak-stats.demolab.com?user=mammaddrik&stroke=881F1F&background=fff&ring=000&fire=881F1F&currStreakNum=000&currStreakLabel=881F1F&sideNums=000&sideLabels=000&dates=000&hide_border=true&date_format=%5BY.%5Dn.j" height='151px'>
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=0D1117&color=fff&line=881F1F&point=fff&hide_title=true&hide_border=true" alt="Skill&Tools"/>
