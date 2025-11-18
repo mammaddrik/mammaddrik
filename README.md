@@ -1,7 +1,8 @@
-![Text](Media/Text_Light.png#gh-dark-mode-only)
-![Text](Media/Text_Dark.png#gh-light-mode-only)
-
 <div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Text_Light.png" alt="Text"/>
+        <img src="Media/Text_Dark.png" alt="Text">
+    </picture>
     <img src="Media/Berserk.gif" width="240" height="240" alt="Berserk">
 </div>
 
@@ -11,8 +12,6 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/AboutMe_Light.png" alt="GutsText"/>
         <img src="Media/AboutMe_Dark.png" alt="GutsText">
     </picture>
-</div>
-<div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/GutsText_Dark.png" alt="GutsText"/>
         <img src="Media/GutsText_Light.png" alt="GutsText">
@@ -62,9 +61,8 @@
             <img src="Media/YouTube_Dark.png" alt="YouTube">
         </picture>
     </a>
-    
+    <br><br>
 </div>
-<br><br>
 
 #
 <div align="center">
