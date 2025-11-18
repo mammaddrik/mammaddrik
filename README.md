@@ -61,10 +61,17 @@
             <img src="Media/YouTube_Dark.png" alt="YouTube">
         </picture>
     </a>
+    <a href="https://www.youtube.com/@quipu-code">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="Media/YouTube_Light.png" alt="YouTube"/>
+            <img src="Media/YouTube_Dark.png" alt="YouTube">
+        </picture>
+    </a>
     <br><br>
-    <h1></h1>
+    
 </div>
 
+#
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/SkillsTools_Light.png" alt="Skill&Tools"/>
