@@ -28,8 +28,8 @@
 
 <div>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" height="329px" align="right"/>
-        <img src="Media/Casca.png" alt="Casca" height="329px" align="right">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" height="329px" align="center"/>
+        <img src="Media/Casca.png" alt="Casca" height="329px" align="center">
     </picture>
     <br>
     <a href="https://t.me/mammaddrik">
@@ -40,8 +40,8 @@
     </a>
     <a href="http://www.instagram.com/mammad.drik">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="Media/Instagram_Light.png" alt="Instagram" align="right"/>
-            <img src="Media/Instagram_Dark.png" alt="Instagram" align="right">
+            <source media="(prefers-color-scheme: dark)" srcset="Media/Instagram_Light.png" alt="Instagram"/>
+            <img src="Media/Instagram_Dark.png" alt="Instagram">
         </picture>
     </a>
     <a href="https://www.linkedin.com/in/mammaddrik/">
