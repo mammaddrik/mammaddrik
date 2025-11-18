@@ -33,7 +33,7 @@
     </picture>
 </div>
 
-<br><br>
+<br><br><br>
 
 ![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://t.me/mammaddrik)
 ![Instagram](Media/Instagram_Light.png#gh-dark-mode-only) ![Instagram](Media/Instagram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](http://www.instagram.com/mammad.drik)
@@ -41,9 +41,7 @@
 ![Steam](Media/Steam_Light.png#gh-dark-mode-only) ![Telegram](Media/Steam_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://steamcommunity.com/id/Buddy_Bee/)
 ![YouTube](Media/YouTube_Light.png#gh-dark-mode-only) ![YouTube](Media/YouTube_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://www.youtube.com/@quipu-code)
 
-<br><br>
-<br><br>
-
+<br><br><br>
 
 #
 <div align="center">
