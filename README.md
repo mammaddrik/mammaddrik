@@ -30,7 +30,6 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" height="329px" align="right"/>
         <img src="Media/Casca.png" alt="Casca" height="329px" align="right">
     </picture>
-    <h1></h1>
     <br><br>
     <a href="https://t.me/mammaddrik">
         <picture>
@@ -63,9 +62,9 @@
         </picture>
     </a>
     <br><br>
+    <h1></h1>
 </div>
 
-#
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/SkillsTools_Light.png" alt="Skill&Tools"/>
