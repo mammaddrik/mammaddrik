@@ -31,17 +31,37 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" height="379px" align="right"/>
         <img src="Media/Casca.png" alt="Casca" height="379px" align="right">
     </picture>
+    <a href="https://t.me/mammaddrik">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="Media/Telegram_Light.png" alt="Telegram"/>
+            <img src="Telegram_Dark.png" alt="Telegram">
+        </picture>
+    </a>
+    <a href="http://www.instagram.com/mammad.drik">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="Media/Instagram_Light.png" alt="Instagram"/>
+            <img src="Media/Instagram_Dark.png" alt="Instagram">
+        </picture>
+    </a>
+    <a href="https://www.linkedin.com/in/mammaddrik/">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="Media/LinkedIn_Light.png" alt="LinkedIn"/>
+            <img src="Media/LinkedIn_Dark.png" alt="LinkedIn">
+        </picture>
+    </a>
+    <a href="https://steamcommunity.com/id/Buddy_Bee/">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="Media/Steam_Light.png" alt="Steam"/>
+            <img src="Media/Steam_Dark.png" alt="Steam">
+        </picture>
+    </a>
+    <a href="https://www.youtube.com/@quipu-code">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="Media/YouTube_Light.png" alt="YouTube"/>
+            <img src="Media/YouTube_Dark.png" alt="YouTube">
+        </picture>
+    </a>
 </div>
-
-<br><br><br>
-
-![Telegram](Media/Telegram_Light.png#gh-dark-mode-only) ![Telegram](Media/Telegram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://t.me/mammaddrik)
-![Instagram](Media/Instagram_Light.png#gh-dark-mode-only) ![Instagram](Media/Instagram_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](http://www.instagram.com/mammad.drik)
-![LinkedIn](Media/LinkedIn_Light.png#gh-dark-mode-only) ![LinkedIn](Media/LinkedIn_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://www.linkedin.com/in/mammaddrik/)
-![Steam](Media/Steam_Light.png#gh-dark-mode-only) ![Telegram](Media/Steam_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://steamcommunity.com/id/Buddy_Bee/)
-![YouTube](Media/YouTube_Light.png#gh-dark-mode-only) ![YouTube](Media/YouTube_Dark.png#gh-light-mode-only) [![Link](Media/Link.png)](https://www.youtube.com/@quipu-code)
-
-<br><br><br>
 
 #
 <div align="center">
@@ -59,6 +79,8 @@
 </div>
 
 <br>
+
+![Text](Media/Skills.png) ![Text](Media/Tools.png)
 
 | ![Text](Media/Skills.png) | ![Text](Media/Tools.png) |
 | --------------------------| ------------------------ |
