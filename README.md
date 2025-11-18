@@ -96,7 +96,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=fff&title_color=000&icon_color=881F1F&text_color=000&hide_border=true&rank_icon=github&hide_title=true" alt="Stats"  height='151px'>
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mammaddrik&stroke=881F1F&background=0D1117&ring=fff&fire=881F1F&currStreakNum=fff&currStreakLabel=881F1F&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true" alt="Skill&Tools" height='151px' align="right"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mammaddrik&stroke=881F1F&background=0D1117&ring=fff&fire=881F1F&currStreakNum=fff&currStreakLabel=881F1F&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true&date_format=%5BY.%5Dn.j" alt="Skill&Tools" height='151px' align="right"/>
         <img src="https://streak-stats.demolab.com/?user=mammaddrik&stroke=881F1F&background=fff&ring=000&fire=881F1F&currStreakNum=000&currStreakLabel=881F1F&sideNums=000&sideLabels=000&dates=000&hide_border=true"  height='151px'>
     </picture>
     <picture>
@@ -104,7 +104,6 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=fff&color=000&line=881F1F&point=000&hide_title=true&hide_border=true" alt="Skill&Tools">
     </picture>
 </div>
-
 
 <!-- <img height='165px' src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=0D1117&title_color=fff&icon_color=881F1F&text_color=fff&hide_border=true&rank_icon=github&hide_title=true"> -->
 
