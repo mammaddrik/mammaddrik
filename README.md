@@ -31,6 +31,7 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" height="329px" align="right"/>
         <img src="Media/Casca.png" alt="Casca" height="329px" align="right">
     </picture>
+    <br><br>
     <a href="https://t.me/mammaddrik">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="Media/Telegram_Light.png" alt="Telegram"/>
@@ -63,7 +64,7 @@
     </a>
     
 </div>
-<br><br><br>
+<br><br>
 
 #
 <div align="center">
