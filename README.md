@@ -26,7 +26,7 @@
     </picture>
 </div>
 
-<div align="center">
+<div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" height="329px" align="right"/>
         <img src="Media/Casca.png" alt="Casca" height="329px" align="right">
@@ -40,8 +40,8 @@
     </a>
     <a href="http://www.instagram.com/mammad.drik">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="Media/Instagram_Light.png" alt="Instagram"/>
-            <img src="Media/Instagram_Dark.png" alt="Instagram">
+            <source media="(prefers-color-scheme: dark)" srcset="Media/Instagram_Light.png" alt="Instagram" align="right"/>
+            <img src="Media/Instagram_Dark.png" alt="Instagram" align="right">
         </picture>
     </a>
     <a href="https://www.linkedin.com/in/mammaddrik/">
