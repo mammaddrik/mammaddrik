@@ -125,6 +125,10 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/JavaScript_Light.png" alt="JavaScript" align="Left"/>
         <img src="Media/JavaScript_Light.png" alt="JavaScript" align="Left">
     </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/XD_Light.png" alt="XD" align="Left"/>
+        <img src="Media/XD_Light.png" alt="XD" align="Left">
+    </picture>
 </div>
 
 <!--
