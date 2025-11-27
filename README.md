@@ -87,7 +87,7 @@
 </div>
 
 <div>
-    <br>
+    <br><br>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Python_Light.png" alt="Python" align="Left"/>
         <img src="Media/Python_Light.png" alt="Python" align="Left">
@@ -105,6 +105,7 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/MySQL_Light.png" alt="MySQL" align="Left"/>
         <img src="Media/MySQL_Light.png" alt="MySQL" align="Left">
     </picture>
+    <br>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Bash_Light.png" alt="Bash" align="Left"/>
         <img src="Media/Bash_Light.png" alt="Bash" align="Left">
@@ -113,6 +114,7 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/Linux_Light.png" alt="Linux" align="Left"/>
         <img src="Media/Linux_Light.png" alt="Linux" align="Left">
     </picture>
+    <br>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Ruby_Light.png" alt="Ruby" align="Left"/>
         <img src="Media/Ruby_Light.png" alt="Ruby" align="Left">
@@ -121,6 +123,7 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/Photoshop_Light.png" alt="Photoshop" align="Left"/>
         <img src="Media/Photoshop_Light.png" alt="Photoshop" align="Left">
     </picture>
+    <br>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/JavaScript_Light.png" alt="JavaScript" align="Left"/>
         <img src="Media/JavaScript_Light.png" alt="JavaScript" align="Left">
@@ -129,6 +132,7 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/XD_Light.png" alt="XD" align="Left"/>
         <img src="Media/XD_Light.png" alt="XD" align="Left">
     </picture>
+    <br>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Html_Light.png" alt="Html" align="Left"/>
         <img src="Media/Html_Light.png" alt="Html" align="Left">
@@ -137,6 +141,7 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/Docker_Light.png" alt="Docker" align="Left"/>
         <img src="Media/Docker_Light.png" alt="Docker" align="Left">
     </picture>
+    <br>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Css_Light.png" alt="Css" align="Left"/>
         <img src="Media/Css_Light.png" alt="Css" align="Left">
@@ -145,6 +150,7 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/WordPress_Light.png" alt="WordPress" align="Left"/>
         <img src="Media/WordPress_Light.png" alt="WordPress" align="Left">
     </picture>
+    <br>
     <div align="center">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="Media/MyProjects_Light.png" alt="Skill&Tools"/>
@@ -153,8 +159,6 @@
     </div>
 
 </div>
-
-
 
 #
 <div align="center">
