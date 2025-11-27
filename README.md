@@ -98,8 +98,12 @@
         <img src="Media/Git_Light.png" alt="Git" align="Left">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Django_Light.png" alt="Django" align="Right"/>
-        <img src="Media/Django_Light.png" alt="Django" align="Right">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Django_Light.png" alt="Django" align="Left"/>
+        <img src="Media/Django_Light.png" alt="Django" align="Left">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/MySQL_Light.png" alt="MySQL" align="Left"/>
+        <img src="Media/MySQL_Light.png" alt="MySQL" align="Left">
     </picture>
 </div>
 
