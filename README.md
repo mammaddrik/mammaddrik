@@ -81,8 +81,8 @@
 
 <div>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" height="400px" align="left"/>
-        <img src="Media/Sword_Light.png" alt="Sword" height="400px" align="left">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" height="450px" align="left"/>
+        <img src="Media/Sword_Light.png" alt="Sword" height="450px" align="left">
     </picture>
 </div>
 
