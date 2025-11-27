@@ -129,11 +129,14 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/XD_Light.png" alt="XD" align="Left"/>
         <img src="Media/XD_Light.png" alt="XD" align="Left">
     </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Html_Light.png" alt="Html" align="Left"/>
+        <img src="Media/Html_Light.png" alt="Html" align="Left">
+    </picture>
 </div>
 
 <!--
-![Text](Media/XD_Light.png#gh-dark-mode-only) ![Text](Media/XD_Dark.png#gh-light-mode-only)
-![Text](Media/Html_Light.png#gh-dark-mode-only) ![Text](Media/Html_Dark.png#gh-light-mode-only) ![Text](Media/Docker_Light.png#gh-dark-mode-only) ![Text](Media/Docker_Dark.png#gh-light-mode-only)
+![Text](Media/Docker_Light.png#gh-dark-mode-only) ![Text](Media/Docker_Dark.png#gh-light-mode-only)
 ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only) ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)
 ![Text](Media/WordPress_Light.png#gh-dark-mode-only) ![Text](Media/WordPress_Dark.png#gh-light-mode-only) ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)
 ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only) ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)
