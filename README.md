@@ -88,11 +88,6 @@
 
 <br>
 
-aa|bb|cc
---|--|--
-ee|ff|gg
---|--|--
-ee|ff|gg
 <div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Python_Light.png" alt="Python" align="Left"/>
@@ -138,10 +133,13 @@ ee|ff|gg
         <source media="(prefers-color-scheme: dark)" srcset="Media/Html_Light.png" alt="Html" align="Left"/>
         <img src="Media/Html_Light.png" alt="Html" align="Left">
     </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Docker_Light.png" alt="Docker" align="Left"/>
+        <img src="Media/Docker_Light.png" alt="Docker" align="Left">
+    </picture>
 </div>
 
 <!--
-![Text](Media/Docker_Light.png#gh-dark-mode-only) ![Text](Media/Docker_Dark.png#gh-light-mode-only)
 ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only) ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)
 ![Text](Media/WordPress_Light.png#gh-dark-mode-only) ![Text](Media/WordPress_Dark.png#gh-light-mode-only) ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)
 ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only) ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)
