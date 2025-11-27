@@ -91,12 +91,15 @@
 <div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Python_Light.png" alt="Python" align="Right"/>
-        <img src="Media/Python_Light.png" alt="Sword" align="Right">
+        <img src="Media/Python_Light.png" alt="Python" align="Right">
+    </picture>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Git_Light.png" alt="Git" align="Right"/>
+        <img src="Media/Git_Light.png" alt="Git" align="Right">
     </picture>
 </div>
 
-![Text](Media/Git_Light.png#gh-dark-mode-only) ![Text](Media/Git_Dark.png#gh-light-mode-only)
-![Text](Media/Django_Light.png#gh-dark-mode-only) ![Text](Media/Django_Dark.png#gh-light-mode-only) ![Text](Media/MySQL_Light.png#gh-dark-mode-only) ![Text](Media/MySQL_Dark.png#gh-light-mode-only)
+<!-- ![Text](Media/Django_Light.png#gh-dark-mode-only) ![Text](Media/Django_Dark.png#gh-light-mode-only) ![Text](Media/MySQL_Light.png#gh-dark-mode-only) ![Text](Media/MySQL_Dark.png#gh-light-mode-only)
 ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) ![Text](Media/Linux_Light.png#gh-dark-mode-only) ![Text](Media/Linux_Dark.png#gh-light-mode-only)
 ![Text](Media/Ruby_Light.png#gh-dark-mode-only) ![Text](Media/Ruby_Dark.png#gh-light-mode-only) ![Text](Media/Photoshop_Light.png#gh-dark-mode-only) ![Text](Media/Photoshop_Dark.png#gh-light-mode-only)
 ![Text](Media/JavaScript_Light.png#gh-dark-mode-only) ![Text](Media/JavaScript_Dark.png#gh-light-mode-only) ![Text](Media/XD_Light.png#gh-dark-mode-only) ![Text](Media/XD_Dark.png#gh-light-mode-only)
@@ -105,7 +108,7 @@
 ![Text](Media/WordPress_Light.png#gh-dark-mode-only) ![Text](Media/WordPress_Dark.png#gh-light-mode-only) ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)
 ![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only) ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)
 ![Text](Media/WordPress_Light.png#gh-dark-mode-only) ![Text](Media/WordPress_Dark.png#gh-light-mode-only) ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)
-![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only) ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only)
+![Text](Media/Css_Light.png#gh-dark-mode-only) ![Text](Media/Css_Dark.png#gh-light-mode-only) ![Text](Media/Bash_Light.png#gh-dark-mode-only) ![Text](Media/Bash_Dark.png#gh-light-mode-only) -->
 
 #
 <div align="center">
