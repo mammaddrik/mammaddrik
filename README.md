@@ -91,7 +91,8 @@
 aa|bb|cc
 --|--|--
 ee|ff|gg
-
+--|--|--
+ee|ff|gg
 <div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Python_Light.png" alt="Python" align="Left"/>
