@@ -147,7 +147,7 @@
     </picture>
 </div>
 
-#
+
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/MyProjects_Light.png" alt="Skill&Tools"/>
