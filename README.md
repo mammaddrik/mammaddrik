@@ -86,14 +86,6 @@
 #
 <div align="Center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/MyProjects_Light.png" alt="Skill&Tools"/>
-        <img src="Media/MyProjects_Dark.png" alt="MyProjects">
-    </picture>
-</div>
-
-#
-<div align="Center">
-    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Stats_Light.png" alt="Stats"/>
         <img src="Media/Stats_Dark.png" alt="Stats">
     </picture>
