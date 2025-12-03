@@ -94,13 +94,11 @@
         <img src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=fff&title_color=000&icon_color=881F1F&text_color=000&hide_border=true&rank_icon=github&hide_title=true" height='151px' alt="Github Readme Stats Vercel">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mammaddrik&background=0D1117&ring=fff&fire=881F1F&currStreakNum=fff&currStreakLabel=881F1F&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true&date_format=%5BY%20%5DM%20j" height='151px' align="Right" alt="Streak Stats Demolab"/>
-        <img src="https://streak-stats.demolab.com?user=mammaddrik&background=fff&ring=000&fire=881F1F&currStreakNum=000&currStreakLabel=881F1F&sideNums=000&sideLabels=000&dates=000&hide_border=true&date_format=%5BY%20%5DM%20j" height='151px' align="Right" alt="Streak Stats Demolab">
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mammaddrik&background=0D1117&ring=fff&fire=881F1F&currStreakNum=fff&currStreakLabel=881F1F&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true&" height='151px' align="Right" alt="Streak Stats Demolab"/>
+        <img src="https://streak-stats.demolab.com?user=mammaddrik&background=fff&ring=000&fire=881F1F&currStreakNum=000&currStreakLabel=881F1F&sideNums=000&sideLabels=000&dates=000&hide_border=true&" height='151px' align="Right" alt="Streak Stats Demolab">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=0D1117&color=fff&line=881F1F&point=fff&hide_title=true&hide_border=true" alt="Github Readme Activity Graph Vercel"/>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=fff&color=000&line=881F1F&point=000&hide_title=true&hide_border=true" alt="Github Readme Activity Graph Vercel">
     </picture>
 </div>
-
-<img src="https://streak-stats.demolab.com?user=mammaddrik&background=fff&ring=000&fire=881F1F&currStreakNum=000&currStreakLabel=881F1F&sideNums=000&sideLabels=000&dates=000&hide_border=true" height='151px' align="Right" alt="Streak Stats Demolab">
