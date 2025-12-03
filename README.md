@@ -68,7 +68,7 @@
             <img src="Media/X_Dark.png" alt="X">
         </picture>
     </a>
-    <br>
+    <br><br>
 </div>
 
 #
