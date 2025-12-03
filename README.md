@@ -35,7 +35,7 @@
     <a href="https://t.me/mammaddrik">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="Media/Telegram_Light.png" alt="Telegram"/>
-            <img src="Telegram_Dark.png" alt="Telegram">
+            <img src="Media/Telegram_Dark.png" alt="Telegram">
         </picture>
     </a>
     <a href="http://www.instagram.com/mammad.drik">
