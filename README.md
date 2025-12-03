@@ -79,10 +79,10 @@
     </picture>
 </div>
 
-<div>
+<div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" height="600px" align="left"/>
-        <img src="Media/Sword_Light.png" alt="Sword" height="600px" align="left">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword"/>
+        <img src="Media/Sword_Light.png" alt="Sword">
     </picture>
 </div>
 
