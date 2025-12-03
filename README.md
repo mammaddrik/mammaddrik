@@ -79,7 +79,6 @@
     </picture>
 </div>
 
-#
 <div>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Sword_Dark.png" alt="Sword" height="600px" align="left"/>
@@ -87,7 +86,6 @@
     </picture>
 </div>
 
-#
 <div>
     <br><br>
     <picture>
