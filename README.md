@@ -151,13 +151,14 @@
         <img src="Media/WordPress_Light.png" alt="WordPress" align="Left">
     </picture>
     <br>
-    <div align="center">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="Media/MyProjects_Light.png" alt="Skill&Tools"/>
-            <img src="Media/MyProjects_Dark.png" alt="MyProjects">
-        </picture>
-    </div>
+</div>
 
+#
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="Media/MyProjects_Light.png" alt="Skill&Tools"/>
+        <img src="Media/MyProjects_Dark.png" alt="MyProjects">
+    </picture>
 </div>
 
 #
