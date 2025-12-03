@@ -27,10 +27,7 @@
 </div>
 
 <div>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Casca.png" alt="Casca" height="329px" align="Right"/>
-        <img src="Media/Casca.png" alt="Casca" height="329px" align="Right">
-    </picture>
+    <img src="Media/Casca.png" alt="Casca" height="329px" align="Right">
     <br>
     <a href="https://t.me/mammaddrik">
         <picture>
