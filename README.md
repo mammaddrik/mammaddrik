@@ -89,8 +89,8 @@
 <div>
     <br><br>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="Media/Python_Light.png" alt="Python" align="Left"/>
-        <img src="Media/Python_Light.png" alt="Python" align="Left">
+        <source media="(prefers-color-scheme: dark)" srcset="Media/Python_Light.png" alt="Python" align="Right"/>
+        <img src="Media/Python_Light.png" alt="Python" align="Right">
     </picture>
     <!-- <picture>
         <source media="(prefers-color-scheme: dark)" srcset="Media/Git_Light.png" alt="Git" align="Left"/>
@@ -150,13 +150,13 @@
         <source media="(prefers-color-scheme: dark)" srcset="Media/WordPress_Light.png" alt="WordPress" align="Left"/>
         <img src="Media/WordPress_Light.png" alt="WordPress" align="Left">
     </picture>
-    <br>
+    <br> -->
     <div align="center">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="Media/MyProjects_Light.png" alt="Skill&Tools"/>
             <img src="Media/MyProjects_Dark.png" alt="MyProjects">
         </picture>
-    </div> -->
+    </div>
 
 </div>
 
