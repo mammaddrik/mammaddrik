@@ -90,8 +90,8 @@
 
 <div>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=0D1117&title_color=fff&icon_color=881F1F&text_color=fff&hide_border=true&rank_icon=github&hide_title=true" height='151px' alt="Github Readme Stats Vercel"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=fff&title_color=000&icon_color=881F1F&text_color=000&hide_border=true&rank_icon=github&hide_title=true" height='151px' alt="Github Readme Stats Vercel">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=0D1117&title_color=fff&icon_color=881F1F&text_color=fff&hide_border=true&rank_icon=github&hide_title=true" height='151px' alt="Github Readme Stats Vercel"/>
+        <img src="https://github-stats-extended.vercel.app/api?username=mammaddrik&show_icons=true&bg_color=fff&title_color=000&icon_color=881F1F&text_color=000&hide_border=true&rank_icon=github&hide_title=true" height='151px' alt="Github Readme Stats Vercel">
     </picture>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mammaddrik&background=0D1117&ring=fff&fire=881F1F&currStreakNum=fff&currStreakLabel=881F1F&sideNums=fff&sideLabels=fff&dates=fff&hide_border=true&" height='151px' align="Right" alt="Streak Stats Demolab"/>
