@@ -98,7 +98,7 @@
         <img src="https://streak-stats.demolab.com?user=mammaddrik&background=fff&ring=000&fire=881F1F&currStreakNum=000&currStreakLabel=881F1F&sideNums=000&sideLabels=000&dates=000&hide_border=true&" height='151px' align="Right" alt="Streak Stats Demolab">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=0D1117&color=fff&line=881F1F&point=fff&hide_title=true&hide_border=true" alt="Github Readme Activity Graph Vercel"/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=mammaddrik&show_icons=true&bg_color=fff&color=000&line=881F1F&point=000&hide_title=true&hide_border=true" alt="Github Readme Activity Graph Vercel">
+        <source media="(prefers-color-scheme: dark)" srcset="https://fabianocouto-activity-graph.vercel.app/graph/?username=mammaddrik&show_icons=true&bg_color=0D1117&color=fff&line=881F1F&point=fff&hide_title=true&hide_border=true" alt="Github Readme Activity Graph Vercel"/>
+        <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=mammaddrik&show_icons=true&bg_color=fff&color=000&line=881F1F&point=000&hide_title=true&hide_border=true" alt="Github Readme Activity Graph Vercel">
     </picture>
 </div>
